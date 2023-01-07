@@ -42,11 +42,20 @@
       "Price": "200"
     }
   ],
-
-  "Signup":[
-
+  "Signup": [
+    {
+      "email": "ahdkdhka@gmail.com",
+      "password": "theja",
+      "confirmpassword": "theja",
+      "username": "theja",
+      "id": 1
+    }
   ],
-  "Login":[
-
+  "Login": [],
+  "Task": [
+    {
+      "data": "hello",
+      "id": 1
+    }
   ]
 }
